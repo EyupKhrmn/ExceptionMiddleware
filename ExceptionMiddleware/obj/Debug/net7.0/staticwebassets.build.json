@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OF5iKHbKUkz9VFbX+Fv5CK9MQ5fnwqxzIRJDFHNatWI=",
+  "Source": "ExceptionMiddleware",
+  "BasePath": "_content/ExceptionMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
